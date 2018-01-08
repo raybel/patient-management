@@ -1,1 +1,1 @@
-insert into t_patient (patient_firstname , patient_secondname ,patient_dateofbirth,patient_age,patient_address) values('testFirstName','testLastname','1973-12-25',46,'address');
+insert into t_person (first_name , last_name,IDENTIFICATION_NUMBER,PHONE_NUMBER,address ) values('testFirstName','testLastname',123654,20448422,'address');
